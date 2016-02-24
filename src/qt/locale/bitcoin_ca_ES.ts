@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Steps</source>
-        <translation>Sobre Steps</translation>
+        <source>About Candy</source>
+        <translation>Sobre Candy</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Steps&lt;/b&gt; version</source>
-        <translation>versió &lt;b&gt;Steps&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Candy&lt;/b&gt; version</source>
+        <translation>versió &lt;b&gt;Candy&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Steps developers</source>
+Copyright © 2014 The Candy developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Steps developers</translation>
+Copyright © 2014 The Candy developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Steps addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Aquestes són les teves adreces de Steps per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
+        <source>These are your Candy addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Aquestes són les teves adreces de Candy per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Steps address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça Steps</translation>
+        <source>Sign a message to prove you own a Candy address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça Candy</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Steps address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça Steps especificada.</translation>
+        <source>Verify a message to ensure it was signed with a specified Candy address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça Candy especificada.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>Steps will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Steps tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació del seu moneder no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
+        <source>Candy will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Candy tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació del seu moneder no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -372,8 +372,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Steps</source>
-        <translation>Mostra informació sobre Steps</translation>
+        <source>Show information about Candy</source>
+        <translation>Mostra informació sobre Candy</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -422,13 +422,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a Steps address</source>
-        <translation>Enviar monedes a una adreça Steps</translation>
+        <source>Send coins to a Candy address</source>
+        <translation>Enviar monedes a una adreça Candy</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for Steps</source>
-        <translation>Modificar les opcions de configuració per a Steps</translation>
+        <source>Modify configuration options for Candy</source>
+        <translation>Modificar les opcions de configuració per a Candy</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -467,8 +467,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>Steps</source>
-        <translation>Steps</translation>
+        <source>Candy</source>
+        <translation>Candy</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -477,8 +477,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About Steps</source>
-        <translation>&amp;Sobre Steps</translation>
+        <source>&amp;About Candy</source>
+        <translation>&amp;Sobre Candy</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -534,13 +534,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Steps client</source>
-        <translation>Client Steps</translation>
+        <source>Candy client</source>
+        <translation>Client Candy</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Steps network</source>
-        <translation><numerusform>%n conexió activa a la xarxa Steps</numerusform><numerusform>%n conexions actives a la xarxa Steps</numerusform></translation>
+        <source>%n active connection(s) to Candy network</source>
+        <translation><numerusform>%n conexió activa a la xarxa Candy</numerusform><numerusform>%n conexions actives a la xarxa Candy</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -650,8 +650,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Steps address or malformed URI parameters.</source>
-        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça Steps no vàlida o paràmetres URI malformats.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Candy address or malformed URI parameters.</source>
+        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça Candy no vàlida o paràmetres URI malformats.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -710,8 +710,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Steps can no longer continue safely and will quit.</source>
-        <translation>S&apos;ha produït un error fatal. Steps ja no pot continuar de forma segura i es tancarà.</translation>
+        <source>A fatal error occurred. Candy can no longer continue safely and will quit.</source>
+        <translation>S&apos;ha produït un error fatal. Candy ja no pot continuar de forma segura i es tancarà.</translation>
     </message>
 </context>
 <context>
@@ -1044,8 +1044,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Steps address.</source>
-        <translation>La direcció introduïda &quot;%1&quot; no és una adreça Steps vàlida.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Candy address.</source>
+        <translation>La direcció introduïda &quot;%1&quot; no és una adreça Candy vàlida.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1063,8 +1063,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Steps-Qt</source>
-        <translation>Steps-Qt</translation>
+        <source>Candy-Qt</source>
+        <translation>Candy-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1136,13 +1136,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Steps after logging in to the system.</source>
-        <translation>Inicia automàticament Steps després d&apos;entrar en el sistema.</translation>
+        <source>Automatically start Candy after logging in to the system.</source>
+        <translation>Inicia automàticament Candy després d&apos;entrar en el sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Steps on system login</source>
-        <translation>&amp;Iniciar Steps amb l&apos;inici de sessió</translation>
+        <source>&amp;Start Candy on system login</source>
+        <translation>&amp;Iniciar Candy amb l&apos;inici de sessió</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1161,8 +1161,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Steps client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Obrir automàticament el port de client Steps en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
+        <source>Automatically open the Candy client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Obrir automàticament el port de client Candy en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1171,8 +1171,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Steps network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connecteu-vos a la xarxa Steps través d&apos;un proxy SOCKS (per exemple, quan es connecta a través de Tor).</translation>
+        <source>Connect to the Candy network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connecteu-vos a la xarxa Candy través d&apos;un proxy SOCKS (per exemple, quan es connecta a través de Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1246,8 +1246,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Steps.</source>
-        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar Steps.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Candy.</source>
+        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar Candy.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1261,8 +1261,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Steps addresses in the transaction list or not.</source>
-        <translation>Per mostrar Steps adreces a la llista de transaccions o no.</translation>
+        <source>Whether to show Candy addresses in the transaction list or not.</source>
+        <translation>Per mostrar Candy adreces a la llista de transaccions o no.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1308,8 +1308,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Steps.</source>
-        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar Steps.</translation>
+        <source>This setting will take effect after restarting Candy.</source>
+        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar Candy.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1327,8 +1327,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Steps network after a connection is established, but this process has not completed yet.</source>
-        <translation>La informació mostrada pot estar fora de data. El seu moneder es sincronitza automàticament amb la xarxa Steps després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Candy network after a connection is established, but this process has not completed yet.</source>
+        <translation>La informació mostrada pot estar fora de data. El seu moneder es sincronitza automàticament amb la xarxa Candy després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1543,8 +1543,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Steps-Qt help message to get a list with possible Steps command-line options.</source>
-        <translation>Mostra el missatge d&apos;ajuda de Steps-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres Steps.</translation>
+        <source>Show the Candy-Qt help message to get a list with possible Candy command-line options.</source>
+        <translation>Mostra el missatge d&apos;ajuda de Candy-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres Candy.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1563,13 +1563,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Steps - Debug window</source>
-        <translation>Steps - Finestra Depuració</translation>
+        <source>Candy - Debug window</source>
+        <translation>Candy - Finestra Depuració</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Steps Core</source>
-        <translation>Nucli Steps</translation>
+        <source>Candy Core</source>
+        <translation>Nucli Candy</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1578,8 +1578,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Steps debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Obriu el fitxer de registre de depuració Steps des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
+        <source>Open the Candy debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Obriu el fitxer de registre de depuració Candy des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1588,8 +1588,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Steps RPC console.</source>
-        <translation>Benvingut a la consola RPC de Steps.</translation>
+        <source>Welcome to the Candy RPC console.</source>
+        <translation>Benvingut a la consola RPC de Candy.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1747,8 +1747,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Steps address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Introdueix una adreça Steps (p.ex. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a Candy address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Introdueix una adreça Candy (p.ex. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1847,8 +1847,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Steps address</source>
-        <translation>ADVERTÈNCIA: Direcció Steps invàlida</translation>
+        <source>WARNING: Invalid Candy address</source>
+        <translation>ADVERTÈNCIA: Direcció Candy invàlida</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1921,8 +1921,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Steps address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Introdueix una adreça Steps (p.ex. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a Candy address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Introdueix una adreça Candy (p.ex. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
 </context>
 <context>
@@ -1982,8 +1982,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Steps address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça Steps</translation>
+        <source>Sign the message to prove you own this Candy address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça Candy</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2014,8 +2014,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Steps address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça Steps especificada.</translation>
+        <source>Verify the message to ensure it was signed with the specified Candy address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça Candy especificada.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2025,8 +2025,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Steps address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Introdueix una adreça Steps (p.ex. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a Candy address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Introdueix una adreça Candy (p.ex. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2035,8 +2035,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Steps signature</source>
-        <translation>Introduïu la signatura Steps</translation>
+        <source>Enter Candy signature</source>
+        <translation>Introduïu la signatura Candy</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2606,8 +2606,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Steps version</source>
-        <translation>versió Steps</translation>
+        <source>Candy version</source>
+        <translation>versió Candy</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2616,8 +2616,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or Stepsd</source>
-        <translation>Enviar comandes a -server o Stepsd</translation>
+        <source>Send command to -server or Candyd</source>
+        <translation>Enviar comandes a -server o Candyd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2636,13 +2636,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: Steps.conf)</source>
-        <translation>Especifiqueu el fitxer de configuració (per defecte: Steps.conf)</translation>
+        <source>Specify configuration file (default: Candy.conf)</source>
+        <translation>Especifiqueu el fitxer de configuració (per defecte: Candy.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Stepsd.pid)</source>
-        <translation>Especificar arxiu pid (per defecte: Stepsd.pid)</translation>
+        <source>Specify pid file (default: Candyd.pid)</source>
+        <translation>Especificar arxiu pid (per defecte: Candyd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2791,8 +2791,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Steps will not work properly.</source>
-        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni Steps no funcionarà correctament.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Candy will not work properly.</source>
+        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni Candy no funcionarà correctament.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2981,24 +2981,24 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=Stepsrpc
+rpcuser=Candyrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Steps Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Candy Alert&quot; admin@foo.com
 </source>
         <translation>%s, ha d&apos;establir un rpcpassword al fitxer de configuració:
 %s
 Es recomana utilitzar la següent contrasenya aleatòria:
-rpcuser=Stepsrpc
+rpcuser=Candyrpc
 rpcpassword=%s
 (No cal recordar aquesta contrasenya)
 El nom d&apos;usuari i contrasenya NO HA DE SER el mateix.
 Si no hi ha l&apos;arxiu, s&apos;ha de crear amb els permisos de només lectura per al propietari.
 També es recomana establir alertnotify per a que se li notifiquin els problemes;
-per exemple: alertnotify=echo %%s | mail -s &quot;Steps Alert&quot; admin@foo.com
+per exemple: alertnotify=echo %%s | mail -s &quot;Candy Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3124,13 +3124,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Steps is probably already running.</source>
-        <translation>No es pot obtenir un bloqueig en el directori de dades %s. Steps probablement ja estigui en funcionament.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Candy is probably already running.</source>
+        <translation>No es pot obtenir un bloqueig en el directori de dades %s. Candy probablement ja estigui en funcionament.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Steps</source>
-        <translation>Steps</translation>
+        <source>Candy</source>
+        <translation>Candy</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3164,13 +3164,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Steps</source>
-        <translation>Error en carregar wallet.dat: El moneder requereix la versió més recent de Steps</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Candy</source>
+        <translation>Error en carregar wallet.dat: El moneder requereix la versió més recent de Candy</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Steps to complete</source>
-        <translation>El moneder necessita ser reescrita: reiniciar Steps per completar</translation>
+        <source>Wallet needed to be rewritten: restart Candy to complete</source>
+        <translation>El moneder necessita ser reescrita: reiniciar Candy per completar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3239,8 +3239,8 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Steps is probably already running.</source>
-        <translation>No es pot enllaçar a %s en aquest equip. Steps probablement ja estigui en funcionament.</translation>
+        <source>Unable to bind to %s on this computer. Candy is probably already running.</source>
+        <translation>No es pot enllaçar a %s en aquest equip. Candy probablement ja estigui en funcionament.</translation>
     </message>
     <message>
         <location line="-97"/>

@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Steps</source>
-        <translation>Tietoa BStepsista</translation>
+        <source>About Candy</source>
+        <translation>Tietoa BCandyista</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Steps&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Steps&lt;/b&gt; versio</translation>
+        <source>&lt;b&gt;Candy&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Candy&lt;/b&gt; versio</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Steps developers</source>
+Copyright © 2014 The Candy developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -64,8 +64,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Steps addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Nämä ovat Steps-osoitteesi rahansiirtojen vastaanottoa varten. Jos haluat, voit antaa jokaiselle lähettäjälle oman osoitteen jotta voit pitää kirjaa sinulle rahaa siirtäneistä henkilöistä.</translation>
+        <source>These are your Candy addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Nämä ovat Candy-osoitteesi rahansiirtojen vastaanottoa varten. Jos haluat, voit antaa jokaiselle lähettäjälle oman osoitteen jotta voit pitää kirjaa sinulle rahaa siirtäneistä henkilöistä.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -79,8 +79,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Steps address</source>
-        <translation>Allekirjoita viesti osoittaaksesi Steps-osoitteesi omistajuus</translation>
+        <source>Sign a message to prove you own a Candy address</source>
+        <translation>Allekirjoita viesti osoittaaksesi Candy-osoitteesi omistajuus</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -94,8 +94,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Steps address</source>
-        <translation>Vahvista viesti varmistaaksesi että kyseinen Steps-osoitteesi on allekirjoittanut sen</translation>
+        <source>Verify a message to ensure it was signed with a specified Candy address</source>
+        <translation>Vahvista viesti varmistaaksesi että kyseinen Candy-osoitteesi on allekirjoittanut sen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -262,8 +262,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-58"/>
-        <source>Steps will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Steps-ohjelma sulkee itsensä päättääkseen salauksen luonnin. Muista, että lompakon salaaminen ei täysin turvaa kolikoitasi haittaohjelmien aiheuttamien varkauksien uhalta.</translation>
+        <source>Candy will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Candy-ohjelma sulkee itsensä päättääkseen salauksen luonnin. Muista, että lompakon salaaminen ei täysin turvaa kolikoitasi haittaohjelmien aiheuttamien varkauksien uhalta.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -376,8 +376,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Steps</source>
-        <translation>Näytä tietoja Stepsista</translation>
+        <source>Show information about Candy</source>
+        <translation>Näytä tietoja Candyista</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -426,13 +426,13 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a Steps address</source>
-        <translation>Lähetä kolikkoja Steps osoitteeseen</translation>
+        <source>Send coins to a Candy address</source>
+        <translation>Lähetä kolikkoja Candy osoitteeseen</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for Steps</source>
-        <translation>Mukauta Stepsin konfigurointiasetuksia</translation>
+        <source>Modify configuration options for Candy</source>
+        <translation>Mukauta Candyin konfigurointiasetuksia</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -471,8 +471,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-200"/>
-        <source>Steps</source>
-        <translation>Steps</translation>
+        <source>Candy</source>
+        <translation>Candy</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -481,8 +481,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About Steps</source>
-        <translation>&amp;Tietoa Stepsista</translation>
+        <source>&amp;About Candy</source>
+        <translation>&amp;Tietoa Candyista</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -538,13 +538,13 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Steps client</source>
-        <translation>Steps-asiakas</translation>
+        <source>Candy client</source>
+        <translation>Candy-asiakas</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Steps network</source>
-        <translation><numerusform>%n aktiivinen yhteys Steps-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä Steps-verkkoon</numerusform></translation>
+        <source>%n active connection(s) to Candy network</source>
+        <translation><numerusform>%n aktiivinen yhteys Candy-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä Candy-verkkoon</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -657,8 +657,8 @@ Osoite: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Steps address or malformed URI parameters.</source>
-        <translation>URI-merkkijonoa ei voida jäsentää! Tämä voi johtua väärästä Steps-osoitteesta tai väärässä muodossa olevista URI-parametreistä.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Candy address or malformed URI parameters.</source>
+        <translation>URI-merkkijonoa ei voida jäsentää! Tämä voi johtua väärästä Candy-osoitteesta tai väärässä muodossa olevista URI-parametreistä.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -717,8 +717,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Steps can no longer continue safely and will quit.</source>
-        <translation>Vakava virhe kohdattu. Steps-ohjelma ei voi enää jatkaa turvallisesti ja sulkee itsensä.</translation>
+        <source>A fatal error occurred. Candy can no longer continue safely and will quit.</source>
+        <translation>Vakava virhe kohdattu. Candy-ohjelma ei voi enää jatkaa turvallisesti ja sulkee itsensä.</translation>
     </message>
 </context>
 <context>
@@ -1051,8 +1051,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Steps address.</source>
-        <translation>Syöttämäsi osoite &quot;%1&quot; ei ole hyväksytty Steps-osoite.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Candy address.</source>
+        <translation>Syöttämäsi osoite &quot;%1&quot; ei ole hyväksytty Candy-osoite.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1070,8 +1070,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Steps-Qt</source>
-        <translation>Steps-Qt</translation>
+        <source>Candy-Qt</source>
+        <translation>Candy-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1143,13 +1143,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Steps after logging in to the system.</source>
-        <translation>Käynnistä Steps-asiakasohjelma automaattisesti kun olet kirjautunut järjestelmään.</translation>
+        <source>Automatically start Candy after logging in to the system.</source>
+        <translation>Käynnistä Candy-asiakasohjelma automaattisesti kun olet kirjautunut järjestelmään.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Steps on system login</source>
-        <translation>%Käynnistä Steps-asiakasohjelma kirjautuessasi</translation>
+        <source>&amp;Start Candy on system login</source>
+        <translation>%Käynnistä Candy-asiakasohjelma kirjautuessasi</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1168,8 +1168,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Steps client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avaa Steps-asiakkaalle automaattisesti portti reitittimestä. Tämä toimii vain, kun reitittimesi tukee UPnP:tä ja se on aktivoituna.</translation>
+        <source>Automatically open the Candy client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avaa Candy-asiakkaalle automaattisesti portti reitittimestä. Tämä toimii vain, kun reitittimesi tukee UPnP:tä ja se on aktivoituna.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1178,8 +1178,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Steps network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Yhdistä Steps-verkkoon SOCKS-välityspalvelimen lävitse. (esim. yhdistettäessä Tor:n läpi).</translation>
+        <source>Connect to the Candy network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Yhdistä Candy-verkkoon SOCKS-välityspalvelimen lävitse. (esim. yhdistettäessä Tor:n läpi).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1253,8 +1253,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Steps.</source>
-        <translation>Käyttöliittymän kieli voidaan valita tästä. Tämä asetus tulee voimaan vasta Steps-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Candy.</source>
+        <translation>Käyttöliittymän kieli voidaan valita tästä. Tämä asetus tulee voimaan vasta Candy-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1268,8 +1268,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Steps addresses in the transaction list or not.</source>
-        <translation>Näytä tai piilota Steps-osoitteet rahansiirtolistassa.</translation>
+        <source>Whether to show Candy addresses in the transaction list or not.</source>
+        <translation>Näytä tai piilota Candy-osoitteet rahansiirtolistassa.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1315,8 +1315,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Steps.</source>
-        <translation>Tämä asetus tulee voimaan vasta Steps-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
+        <source>This setting will take effect after restarting Candy.</source>
+        <translation>Tämä asetus tulee voimaan vasta Candy-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1334,8 +1334,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Steps network after a connection is established, but this process has not completed yet.</source>
-        <translation>Näytettävät tiedot voivat olla vanhentuneet. Lompakkosi synkronoituu automaattisesti Steps-verkon kanssa kun yhteys on muodostettu, mutta tätä prosessia ei ole viety vielä päätökseen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Candy network after a connection is established, but this process has not completed yet.</source>
+        <translation>Näytettävät tiedot voivat olla vanhentuneet. Lompakkosi synkronoituu automaattisesti Candy-verkon kanssa kun yhteys on muodostettu, mutta tätä prosessia ei ole viety vielä päätökseen.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1550,8 +1550,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Steps-Qt help message to get a list with possible Steps command-line options.</source>
-        <translation>Näytä Steps-Qt:n avustusohje saadaksesi listan käytettävistä Stepsin komentokehotteen määritteistä.</translation>
+        <source>Show the Candy-Qt help message to get a list with possible Candy command-line options.</source>
+        <translation>Näytä Candy-Qt:n avustusohje saadaksesi listan käytettävistä Candyin komentokehotteen määritteistä.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1570,13 +1570,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Steps - Debug window</source>
-        <translation>Steps - Debug-ikkuna</translation>
+        <source>Candy - Debug window</source>
+        <translation>Candy - Debug-ikkuna</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Steps Core</source>
-        <translation>Stepsin ydin</translation>
+        <source>Candy Core</source>
+        <translation>Candyin ydin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1585,8 +1585,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Steps debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Avaa Steps-asiakasohjelman debug-lokitiedosto nykyisestä hakemistostaan. Tämä voi kestää muutaman sekunnin avattaessa suuria lokitiedostoja.</translation>
+        <source>Open the Candy debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Avaa Candy-asiakasohjelman debug-lokitiedosto nykyisestä hakemistostaan. Tämä voi kestää muutaman sekunnin avattaessa suuria lokitiedostoja.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1595,8 +1595,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Steps RPC console.</source>
-        <translation>Tervetuloa Stepsin RPC-konsoliin.</translation>
+        <source>Welcome to the Candy RPC console.</source>
+        <translation>Tervetuloa Candyin RPC-konsoliin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1754,8 +1754,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Steps address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Syötä Steps-osoite (esim. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a Candy address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Syötä Candy-osoite (esim. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1854,8 +1854,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Steps address</source>
-        <translation>VAROITUS: Epäkelpo Steps-osoite</translation>
+        <source>WARNING: Invalid Candy address</source>
+        <translation>VAROITUS: Epäkelpo Candy-osoite</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1928,8 +1928,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Steps address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Syötä Steps-osoite (esim. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a Candy address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Syötä Candy-osoite (esim. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
 </context>
 <context>
@@ -1989,8 +1989,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Steps address</source>
-        <translation>Allekirjoita viesti vahvistaaksesi, että omistat tämän Steps-osoitteen</translation>
+        <source>Sign the message to prove you own this Candy address</source>
+        <translation>Allekirjoita viesti vahvistaaksesi, että omistat tämän Candy-osoitteen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2021,8 +2021,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Steps address</source>
-        <translation>Vahvista viesti varmistaaksesi että se on allekirjoitettu kyseisellä Steps-osoitteella</translation>
+        <source>Verify the message to ensure it was signed with the specified Candy address</source>
+        <translation>Vahvista viesti varmistaaksesi että se on allekirjoitettu kyseisellä Candy-osoitteella</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2032,8 +2032,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Steps address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Syötä Steps-osoite (esim. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a Candy address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Syötä Candy-osoite (esim. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2042,8 +2042,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Steps signature</source>
-        <translation>Syötä Steps-allekirjoitus</translation>
+        <source>Enter Candy signature</source>
+        <translation>Syötä Candy-allekirjoitus</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2613,8 +2613,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Steps version</source>
-        <translation>Stepsin versio</translation>
+        <source>Candy version</source>
+        <translation>Candyin versio</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2623,8 +2623,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or Stepsd</source>
-        <translation>Syötä komento kohteeseen -server tai Stepsd</translation>
+        <source>Send command to -server or Candyd</source>
+        <translation>Syötä komento kohteeseen -server tai Candyd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2643,13 +2643,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: Steps.conf)</source>
-        <translation>Määritä asetustiedosto (oletus: Steps.conf)</translation>
+        <source>Specify configuration file (default: Candy.conf)</source>
+        <translation>Määritä asetustiedosto (oletus: Candy.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Stepsd.pid)</source>
-        <translation>Määritä prosessitiedosto (oletus: Steps.pid)</translation>
+        <source>Specify pid file (default: Candyd.pid)</source>
+        <translation>Määritä prosessitiedosto (oletus: Candy.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2798,8 +2798,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Steps will not work properly.</source>
-        <translation>Varoitus: Tarkista, että tietokoneesi aika ja päivämäärä ovat oikeassa! Jos kellosi on väärässä, Steps ei toimi oikein.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Candy will not work properly.</source>
+        <translation>Varoitus: Tarkista, että tietokoneesi aika ja päivämäärä ovat oikeassa! Jos kellosi on väärässä, Candy ei toimi oikein.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2988,23 +2988,23 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=Stepsrpc
+rpcuser=Candyrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Steps Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Candy Alert&quot; admin@foo.com
 </source>
         <translation>%s, sinun on asetettava rpcpassword asetustiedostoon:
 %s
 On suositeltavaa, että käytät seuraavaa arvottua salasanaa:
-rpcuser=Stepsrpc
+rpcuser=Candyrpc
 rpcpassword=%s
 (Sinun ei tarvitse muistaa tätä salasanaa)
 Käyttäjänimen ja salasanan EI TULE OLLA SAMOJA.
 Jos tiedostoa ei ole olemassa, luo se asettaen samalla omistajan lukuoikeudet.
-On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; esimerkiksi: alertnotify=echo %%s | mail -s &quot;Steps Alert&quot; admin@foo.com
+On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; esimerkiksi: alertnotify=echo %%s | mail -s &quot;Candy Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3129,13 +3129,13 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Steps is probably already running.</source>
-        <translation>Ei voida saavuttaa lukkoa datatiedostossa %s. Steps-asiakasohjelma on ehkä jo käynnissä.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Candy is probably already running.</source>
+        <translation>Ei voida saavuttaa lukkoa datatiedostossa %s. Candy-asiakasohjelma on ehkä jo käynnissä.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Steps</source>
-        <translation>Steps</translation>
+        <source>Candy</source>
+        <translation>Candy</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3169,13 +3169,13 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Steps</source>
-        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Lompakko tarvitsee uudemman version Steps-asiakasohjelmasta</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Candy</source>
+        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Lompakko tarvitsee uudemman version Candy-asiakasohjelmasta</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Steps to complete</source>
-        <translation>Lompakko on kirjoitettava uudelleen: käynnistä Steps-asiakasohjelma uudelleen päättääksesi toiminnon</translation>
+        <source>Wallet needed to be rewritten: restart Candy to complete</source>
+        <translation>Lompakko on kirjoitettava uudelleen: käynnistä Candy-asiakasohjelma uudelleen päättääksesi toiminnon</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3244,8 +3244,8 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Steps is probably already running.</source>
-        <translation>Ei voitu liittää %s tällä tietokoneella. Steps-asiakasohjelma on jo ehkä päällä.</translation>
+        <source>Unable to bind to %s on this computer. Candy is probably already running.</source>
+        <translation>Ei voitu liittää %s tällä tietokoneella. Candy-asiakasohjelma on jo ehkä päällä.</translation>
     </message>
     <message>
         <location line="-97"/>

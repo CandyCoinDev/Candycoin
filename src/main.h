@@ -1497,7 +1497,7 @@ public:
         {
             vHave.push_back(pindex->GetBlockHash());
 
-            // Exponentially larger steps back
+            // Exponentially larger Candy back
             for (int i = 0; pindex && i < nStep; i++)
                 pindex = pindex->pprev;
             if (vHave.size() > 10)

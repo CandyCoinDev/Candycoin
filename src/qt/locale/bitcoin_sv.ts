@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Steps</source>
-        <translation>Vad du behöver veta om BSteps</translation>
+        <source>About Candy</source>
+        <translation>Vad du behöver veta om BCandy</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Steps&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Steps&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;Candy&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Candy&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Steps developers</source>
+Copyright © 2014 The Candy developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Steps developers</translation>
+Copyright © 2014 The Candy developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -66,8 +66,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Steps addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dessa är dina Steps adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
+        <source>These are your Candy addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dessa är dina Candy adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -81,8 +81,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Steps address</source>
-        <translation>Signera ett meddelande för att bevisa att du äger Steps adressen</translation>
+        <source>Sign a message to prove you own a Candy address</source>
+        <translation>Signera ett meddelande för att bevisa att du äger Candy adressen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -96,8 +96,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Steps address</source>
-        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik Steps adress</translation>
+        <source>Verify a message to ensure it was signed with a specified Candy address</source>
+        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik Candy adress</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -264,8 +264,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-58"/>
-        <source>Steps will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>BSteps plånboken kommer nu att stängas för att slutföra krypteringen: Kom ihåg att även en krypterad plånboks säkerhet kan äventyras genom keyloggers eller dylika malwares.</translation>
+        <source>Candy will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>BCandy plånboken kommer nu att stängas för att slutföra krypteringen: Kom ihåg att även en krypterad plånboks säkerhet kan äventyras genom keyloggers eller dylika malwares.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -378,8 +378,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Steps</source>
-        <translation>Visa information om Steps</translation>
+        <source>Show information about Candy</source>
+        <translation>Visa information om Candy</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -428,13 +428,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a Steps address</source>
-        <translation>Skicka coins till en Steps adress</translation>
+        <source>Send coins to a Candy address</source>
+        <translation>Skicka coins till en Candy adress</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for Steps</source>
-        <translation>Modifiera konfigurations-alternativ för Steps</translation>
+        <source>Modify configuration options for Candy</source>
+        <translation>Modifiera konfigurations-alternativ för Candy</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -473,8 +473,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-200"/>
-        <source>Steps</source>
-        <translation>Steps</translation>
+        <source>Candy</source>
+        <translation>Candy</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -483,8 +483,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About Steps</source>
-        <translation>&amp;Om Steps</translation>
+        <source>&amp;About Candy</source>
+        <translation>&amp;Om Candy</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -540,13 +540,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Steps client</source>
-        <translation>Steps klient</translation>
+        <source>Candy client</source>
+        <translation>Candy klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Steps network</source>
-        <translation><numerusform>%n aktiv anslutning till Steps nätverket</numerusform><numerusform>%n aktiva anslutning till Steps nätverket</numerusform></translation>
+        <source>%n active connection(s) to Candy network</source>
+        <translation><numerusform>%n aktiv anslutning till Candy nätverket</numerusform><numerusform>%n aktiva anslutning till Candy nätverket</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -660,8 +660,8 @@ Adress: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Steps address or malformed URI parameters.</source>
-        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig Steps adress eller felaktiga URI parametrar.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Candy address or malformed URI parameters.</source>
+        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig Candy adress eller felaktiga URI parametrar.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -720,8 +720,8 @@ Adress: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Steps can no longer continue safely and will quit.</source>
-        <translation>Ett fatalt fel uppstod. BSteps kan inte fortsätta och stänger programmet.</translation>
+        <source>A fatal error occurred. Candy can no longer continue safely and will quit.</source>
+        <translation>Ett fatalt fel uppstod. BCandy kan inte fortsätta och stänger programmet.</translation>
     </message>
 </context>
 <context>
@@ -1015,7 +1015,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+10"/>
         <source>The label associated with this address book entry</source>
-        <translation>Namnet som kopplats till denna BSteps-adress</translation>
+        <translation>Namnet som kopplats till denna BCandy-adress</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1054,8 +1054,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Steps address.</source>
-        <translation>Den inslagna adressen &quot;%1&quot; är inte en giltig BSteps adress.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Candy address.</source>
+        <translation>Den inslagna adressen &quot;%1&quot; är inte en giltig BCandy adress.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1073,8 +1073,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Steps-Qt</source>
-        <translation>Steps-Qt</translation>
+        <source>Candy-Qt</source>
+        <translation>Candy-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1146,13 +1146,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Steps after logging in to the system.</source>
-        <translation>Starta BSteps automatiskt vid inloggning.</translation>
+        <source>Automatically start Candy after logging in to the system.</source>
+        <translation>Starta BCandy automatiskt vid inloggning.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Steps on system login</source>
-        <translation>&amp;Starta BSteps vid inloggning</translation>
+        <source>&amp;Start Candy on system login</source>
+        <translation>&amp;Starta BCandy vid inloggning</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1171,8 +1171,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Steps client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Öppna automatiskt Steps klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
+        <source>Automatically open the Candy client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Öppna automatiskt Candy klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1181,8 +1181,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Steps network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Anslut till Steps nätverket via en SOCKS proxy (t.ex. när du ansluter genom Tor).</translation>
+        <source>Connect to the Candy network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Anslut till Candy nätverket via en SOCKS proxy (t.ex. när du ansluter genom Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1256,8 +1256,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Steps.</source>
-        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av Steps.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Candy.</source>
+        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av Candy.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1271,8 +1271,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Steps addresses in the transaction list or not.</source>
-        <translation>Om Steps adresser skall visas i transaktionslistan eller inte.</translation>
+        <source>Whether to show Candy addresses in the transaction list or not.</source>
+        <translation>Om Candy adresser skall visas i transaktionslistan eller inte.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1318,8 +1318,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Steps.</source>
-        <translation>Inställningen börjar gälla efter omstart av Steps.</translation>
+        <source>This setting will take effect after restarting Candy.</source>
+        <translation>Inställningen börjar gälla efter omstart av Candy.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1337,8 +1337,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Steps network after a connection is established, but this process has not completed yet.</source>
-        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med Steps nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Candy network after a connection is established, but this process has not completed yet.</source>
+        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med Candy nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1553,8 +1553,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Steps-Qt help message to get a list with possible Steps command-line options.</source>
-        <translation>Visa Steps-Qt hjälp meddelandet för att få en lista över möjliga Steps kommandoradsalternativ.</translation>
+        <source>Show the Candy-Qt help message to get a list with possible Candy command-line options.</source>
+        <translation>Visa Candy-Qt hjälp meddelandet för att få en lista över möjliga Candy kommandoradsalternativ.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1573,13 +1573,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Steps - Debug window</source>
-        <translation>Steps - Felsökningsfönster</translation>
+        <source>Candy - Debug window</source>
+        <translation>Candy - Felsökningsfönster</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Steps Core</source>
-        <translation>Steps Core</translation>
+        <source>Candy Core</source>
+        <translation>Candy Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1588,8 +1588,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Steps debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öppna Steps felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
+        <source>Open the Candy debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Öppna Candy felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1598,8 +1598,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Steps RPC console.</source>
-        <translation>Välkommen till Steps RPC konsoll.</translation>
+        <source>Welcome to the Candy RPC console.</source>
+        <translation>Välkommen till Candy RPC konsoll.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1757,8 +1757,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Steps address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Fyll i en Steps adress (t.ex. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a Candy address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Fyll i en Candy adress (t.ex. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1857,8 +1857,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Steps address</source>
-        <translation>VARNING: Ogiltig Steps adress</translation>
+        <source>WARNING: Invalid Candy address</source>
+        <translation>VARNING: Ogiltig Candy adress</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1931,8 +1931,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Steps address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Fyll i en Steps adress (t.ex. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a Candy address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Fyll i en Candy adress (t.ex. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
 </context>
 <context>
@@ -1992,8 +1992,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Steps address</source>
-        <translation>Signera meddelandet för att verifiera att du äger denna Steps adressen</translation>
+        <source>Sign the message to prove you own this Candy address</source>
+        <translation>Signera meddelandet för att verifiera att du äger denna Candy adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2024,8 +2024,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Steps address</source>
-        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna Steps adressen</translation>
+        <source>Verify the message to ensure it was signed with the specified Candy address</source>
+        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna Candy adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2035,8 +2035,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Steps address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Fyll i en Steps adress (t.ex. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a Candy address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Fyll i en Candy adress (t.ex. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2045,8 +2045,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Steps signature</source>
-        <translation>Fyll i Steps signatur</translation>
+        <source>Enter Candy signature</source>
+        <translation>Fyll i Candy signatur</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2616,8 +2616,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Steps version</source>
-        <translation>Steps version</translation>
+        <source>Candy version</source>
+        <translation>Candy version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2626,8 +2626,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or Stepsd</source>
-        <translation>Skicka kommando till -server eller Stepsd</translation>
+        <source>Send command to -server or Candyd</source>
+        <translation>Skicka kommando till -server eller Candyd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2646,13 +2646,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: Steps.conf)</source>
-        <translation>Ange konfigurationsfilen (standard: Steps.conf)</translation>
+        <source>Specify configuration file (default: Candy.conf)</source>
+        <translation>Ange konfigurationsfilen (standard: Candy.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Stepsd.pid)</source>
-        <translation>Ange pid filen (standard Stepsd.pid)</translation>
+        <source>Specify pid file (default: Candyd.pid)</source>
+        <translation>Ange pid filen (standard Candyd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2801,8 +2801,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Steps will not work properly.</source>
-        <translation>Varning: Kolla att din dators tid och datum är rätt. BSteps kan inte fungera ordentligt om tiden i datorn är fel.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Candy will not work properly.</source>
+        <translation>Varning: Kolla att din dators tid och datum är rätt. BCandy kan inte fungera ordentligt om tiden i datorn är fel.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2991,24 +2991,24 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=Stepsrpc
+rpcuser=Candyrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Steps Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Candy Alert&quot; admin@foo.com
 </source>
         <translation>%s, du måste sätta rpcpassword i konfigurationsfilen:
  %s
 Det är rekommenderat att du använder följande slumpmässiga lösenord:
-rpcuser=Stepsrpc
+rpcuser=Candyrpc
 rpcpassword=%s
 (du behöver inte komma ihåg detta lösenord)
 Användarnamnet och lösenordet FÅR INTE vara samma.
 Om filen inte finns, skapa den med endast ägarrättigheter.
 Det är också rekommenderat att sätta alertnotify så du blir notifierad om problem;
-till exempel: alertnotify=echo %%s | mail -s &quot;Steps Varning&quot; admin@foo.com
+till exempel: alertnotify=echo %%s | mail -s &quot;Candy Varning&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3133,13 +3133,13 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Steps Varning&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Steps is probably already running.</source>
-        <translation>Kan inte låsa datan i mappen %s. BSteps är kanske redan startad.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Candy is probably already running.</source>
+        <translation>Kan inte låsa datan i mappen %s. BCandy är kanske redan startad.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Steps</source>
-        <translation>Steps</translation>
+        <source>Candy</source>
+        <translation>Candy</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3173,13 +3173,13 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Steps Varning&quot; admin@foo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Steps</source>
-        <translation>Kunde inte ladda wallet.dat: En nyare version av BSteps krävs</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Candy</source>
+        <translation>Kunde inte ladda wallet.dat: En nyare version av BCandy krävs</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Steps to complete</source>
-        <translation>Plånboken måste skrivas om: Starta om BSteps för att slutföra</translation>
+        <source>Wallet needed to be rewritten: restart Candy to complete</source>
+        <translation>Plånboken måste skrivas om: Starta om BCandy för att slutföra</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3248,8 +3248,8 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Steps Varning&quot; admin@foo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Steps is probably already running.</source>
-        <translation>Kan inte binda till %s på denna dator. BSteps är sannolikt redan startad.</translation>
+        <source>Unable to bind to %s on this computer. Candy is probably already running.</source>
+        <translation>Kan inte binda till %s på denna dator. BCandy är sannolikt redan startad.</translation>
     </message>
     <message>
         <location line="-97"/>

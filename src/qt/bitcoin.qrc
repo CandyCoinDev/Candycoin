@@ -57,7 +57,7 @@
         <file alias="update_spinner">res/movies/update_spinner.mng</file>
     </qresource>
     <qresource prefix="/fonts">
-        <file alias="Steps">res/fonts/Steps.ttf</file>
+        <file alias="Candy">res/fonts/Candy.ttf</file>
     </qresource>
     <qresource prefix="/translations">
         <file alias="ar">locale/bitcoin_ar.ts</file>

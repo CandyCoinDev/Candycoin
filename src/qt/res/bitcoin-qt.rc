@@ -18,14 +18,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Steps"
-            VALUE "FileDescription",    "Steps-Qt (OSS GUI client for Steps)"
+            VALUE "CompanyName",        "Candy"
+            VALUE "FileDescription",    "Candy-Qt (OSS GUI client for Candy)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "Steps-qt"
-            VALUE "LegalCopyright",     "2009-2014 The Bitcoin developers, 2012-2014 The NovaCoin & PPCoin developers, 2014 The Steps developers"
+            VALUE "InternalName",       "Candy-qt"
+            VALUE "LegalCopyright",     "2009-2014 The Bitcoin developers, 2012-2014 The NovaCoin & PPCoin developers, 2014 The Candy developers"
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "Steps-qt.exe"
-            VALUE "ProductName",        "Steps-Qt"
+            VALUE "OriginalFilename",   "Candy-qt.exe"
+            VALUE "ProductName",        "Candy-Qt"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

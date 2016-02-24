@@ -80,9 +80,9 @@ BitcoinGUI::BitcoinGUI(QWidget *parent):
     nWeight(0)
 {
     setFixedSize(970, 550);
-	QFontDatabase::addApplicationFont(":/fonts/Steps");
-    setWindowTitle(tr("Steps") + " - " + tr("Wallet"));
-	qApp->setStyleSheet("QMainWindow { background-image:url(:images/bkg);border:none; } #frame { } QToolBar QLabel { padding-top: 0px;padding-bottom: 0px;spacing: 10px;} QToolBar QLabel:item { padding-top: 0px;padding-bottom: 0px;spacing: 10px;} #spacer { background: transparent;border:none; } #toolbar2 { border:none;width:0px;hight:0px;padding-top:40px;padding-bottom:0px; background-color: transparent; } #labelMiningIcon { padding-left:5px;font-family:Steps;width:100%;font-size:10px;text-align:center;color:black; } QMenu { background-color: qlineargradient(spread:pad, x1:0.511, y1:1, x2:0.482909, y2:0, stop:0 rgba(232,232,232), stop:1 rgba(232,232,232)); color: black; padding-bottom:10px; } QMenu::item { color: black; background: transparent; } QMenu::item:selected { background-color:qlineargradient(x1: 0, y1: 0, x2: 0.5, y2: 0.5,stop: 0 rgba(99,99,99,45), stop: 1 rgba(99,99,99,45)); } QMenuBar { background-color: white; color: white; } QMenuBar::item { font-size:12px;padding-bottom:3px;padding-top:3px;padding-left:15px;padding-right:15px;color: black; background-color: white; } QMenuBar::item:selected { background-color:qlineargradient(x1: 0, y1: 0, x2: 0.5, y2: 0.5,stop: 0 rgba(99,99,99,45), stop: 1 rgba(99,99,99,45)); }");
+	QFontDatabase::addApplicationFont(":/fonts/Candy");
+    setWindowTitle(tr("Candy") + " - " + tr("Wallet"));
+	qApp->setStyleSheet("QMainWindow { background-image:url(:images/bkg);border:none; } #frame { } QToolBar QLabel { padding-top: 0px;padding-bottom: 0px;spacing: 10px;} QToolBar QLabel:item { padding-top: 0px;padding-bottom: 0px;spacing: 10px;} #spacer { background: transparent;border:none; } #toolbar2 { border:none;width:0px;hight:0px;padding-top:40px;padding-bottom:0px; background-color: transparent; } #labelMiningIcon { padding-left:5px;font-family:Candy;width:100%;font-size:10px;text-align:center;color:black; } QMenu { background-color: qlineargradient(spread:pad, x1:0.511, y1:1, x2:0.482909, y2:0, stop:0 rgba(232,232,232), stop:1 rgba(232,232,232)); color: black; padding-bottom:10px; } QMenu::item { color: black; background: transparent; } QMenu::item:selected { background-color:qlineargradient(x1: 0, y1: 0, x2: 0.5, y2: 0.5,stop: 0 rgba(99,99,99,45), stop: 1 rgba(99,99,99,45)); } QMenuBar { background-color: white; color: white; } QMenuBar::item { font-size:12px;padding-bottom:3px;padding-top:3px;padding-left:15px;padding-right:15px;color: black; background-color: white; } QMenuBar::item:selected { background-color:qlineargradient(x1: 0, y1: 0, x2: 0.5, y2: 0.5,stop: 0 rgba(99,99,99,45), stop: 1 rgba(99,99,99,45)); }");
 #ifndef Q_OS_MAC
     qApp->setWindowIcon(QIcon(":icons/bitcoin"));
     setWindowIcon(QIcon(":icons/bitcoin"));
@@ -206,7 +206,7 @@ void BitcoinGUI::createActions()
     tabGroup->addAction(overviewAction);
 
     sendCoinsAction = new QAction(QIcon(":/icons/send"), tr("&Send coins"), this);
-    sendCoinsAction->setToolTip(tr("Send coins to a Steps address"));
+    sendCoinsAction->setToolTip(tr("Send coins to a Candy address"));
     sendCoinsAction->setCheckable(true);
     sendCoinsAction->setShortcut(QKeySequence(Qt::ALT + Qt::Key_2));
     tabGroup->addAction(sendCoinsAction);
@@ -244,14 +244,14 @@ void BitcoinGUI::createActions()
     quitAction->setToolTip(tr("Quit application"));
     quitAction->setShortcut(QKeySequence(Qt::CTRL + Qt::Key_Q));
     quitAction->setMenuRole(QAction::QuitRole);
-    aboutAction = new QAction(QIcon(":/icons/bitcoin"), tr("&About Steps"), this);
-    aboutAction->setToolTip(tr("Show information about Steps"));
+    aboutAction = new QAction(QIcon(":/icons/bitcoin"), tr("&About Candy"), this);
+    aboutAction->setToolTip(tr("Show information about Candy"));
     aboutAction->setMenuRole(QAction::AboutRole);
     aboutQtAction = new QAction(QIcon(":/icons/qtlogo-64"), tr("About &Qt"), this);
     aboutQtAction->setToolTip(tr("Show information about Qt"));
     aboutQtAction->setMenuRole(QAction::AboutQtRole);
     optionsAction = new QAction(QIcon(":/icons/options"), tr("&Options..."), this);
-    optionsAction->setToolTip(tr("Modify configuration options for Steps"));
+    optionsAction->setToolTip(tr("Modify configuration options for Candy"));
     optionsAction->setMenuRole(QAction::PreferencesRole);
     toggleHideAction = new QAction(QIcon(":/icons/bitcoin"), tr("&Show / Hide"), this);
     encryptWalletAction = new QAction(QIcon(":/icons/lock_closed"), tr("&Encrypt Wallet..."), this);
@@ -348,7 +348,7 @@ void BitcoinGUI::createToolBars()
     toolbar->addAction(receiveCoinsAction);
     toolbar->addAction(historyAction);
     toolbar->addAction(addressBookAction);
-    toolbar->setStyleSheet("#toolbar {background: transparent; text-align: center; color: black;padding-right: 30px;} QToolBar QToolButton:hover {background-color: transparent;} QToolBar QToolButton:selected {background-color: transparent;} QToolBar QToolButton:checked {background-color: transparent;} QToolBar QToolButton:pressed {background-color: transparent;} QToolBar QToolButton {font-family:Steps; font-size:15px; font-weight: bold; min-width:125px;max-width:125px; min-height:25px;max-height:25px; color: white; text-align: left; }");
+    toolbar->setStyleSheet("#toolbar {background: transparent; text-align: center; color: black;padding-right: 30px;} QToolBar QToolButton:hover {background-color: transparent;} QToolBar QToolButton:selected {background-color: transparent;} QToolBar QToolButton:checked {background-color: transparent;} QToolBar QToolButton:pressed {background-color: transparent;} QToolBar QToolButton {font-family:Candy; font-size:15px; font-weight: bold; min-width:125px;max-width:125px; min-height:25px;max-height:25px; color: white; text-align: left; }");
 
 }
 
@@ -369,7 +369,7 @@ void BitcoinGUI::setClientModel(ClientModel *clientModel)
 #endif
             if(trayIcon)
             {
-                trayIcon->setToolTip(tr("Steps client") + QString(" ") + tr("[testnet]"));
+                trayIcon->setToolTip(tr("Candy client") + QString(" ") + tr("[testnet]"));
                 trayIcon->setIcon(QIcon(":/icons/toolbar_testnet"));
                 toggleHideAction->setIcon(QIcon(":/icons/toolbar_testnet"));
             }
@@ -429,7 +429,7 @@ void BitcoinGUI::createTrayIcon()
     trayIcon = new QSystemTrayIcon(this);
     trayIconMenu = new QMenu(this);
     trayIcon->setContextMenu(trayIconMenu);
-    trayIcon->setToolTip(tr("Steps client"));
+    trayIcon->setToolTip(tr("Candy client"));
     trayIcon->setIcon(QIcon(":/icons/toolbar"));
     connect(trayIcon, SIGNAL(activated(QSystemTrayIcon::ActivationReason)),
             this, SLOT(trayIconActivated(QSystemTrayIcon::ActivationReason)));
@@ -499,7 +499,7 @@ void BitcoinGUI::setNumConnections(int count)
     default: icon = ":/icons/connect_4"; break;
     }
     labelConnectionsIcon->setPixmap(QIcon(icon).pixmap(28,54));
-    labelConnectionsIcon->setToolTip(tr("%n active connection(s) to Steps network", "", count));
+    labelConnectionsIcon->setToolTip(tr("%n active connection(s) to Candy network", "", count));
 }
 
 void BitcoinGUI::setNumBlocks(int count, int nTotalBlocks)
@@ -789,7 +789,7 @@ void BitcoinGUI::dropEvent(QDropEvent *event)
         if (nValidUrisFound)
             gotoSendCoinsPage();
         else
-            notificator->notify(Notificator::Warning, tr("URI handling"), tr("URI can not be parsed! This can be caused by an invalid Steps address or malformed URI parameters."));
+            notificator->notify(Notificator::Warning, tr("URI handling"), tr("URI can not be parsed! This can be caused by an invalid Candy address or malformed URI parameters."));
     }
 
     event->acceptProposedAction();
@@ -804,7 +804,7 @@ void BitcoinGUI::handleURI(QString strURI)
         gotoSendCoinsPage();
     }
     else
-        notificator->notify(Notificator::Warning, tr("URI handling"), tr("URI can not be parsed! This can be caused by an invalid Steps address or malformed URI parameters."));
+        notificator->notify(Notificator::Warning, tr("URI handling"), tr("URI can not be parsed! This can be caused by an invalid Candy address or malformed URI parameters."));
 }
 
 void BitcoinGUI::setEncryptionStatus(int status)

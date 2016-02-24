@@ -523,7 +523,7 @@ void StakeMiner(CWallet *pwallet)
     SetThreadPriority(THREAD_PRIORITY_LOWEST);
 
     // Make this thread recognisable as the mining thread
-    RenameThread("Steps-miner");
+    RenameThread("Candy-miner");
 
     bool fTryToSync = true;
 
